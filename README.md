@@ -240,7 +240,7 @@ The analysis reveals significant healthcare professional concentration in urban 
 - **Color Scheme**: Professional green gradient representing healthcare
 - **Accessibility**: Clear contrast and readable fonts
 - **Interactivity**: Hover details and clickable map elements
-- **Responsive Design**: Optimized for desktop and mobile viewing
+- **Responsive Design**: Optimized only for desktop viewing
 
 ## 🤝 Contributing
 
@@ -285,4 +285,5 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
