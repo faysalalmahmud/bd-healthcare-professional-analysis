@@ -1,4 +1,4 @@
-# A Comprehensive Analysis of Healthcare Professionals in Bangladesh
+# Analysis of Healthcare Professionals in Bangladesh
 
 An in-depth data analysis project examining the distribution, specialization, and experience patterns of healthcare professionals across Bangladesh using web scraping, data processing, and geospatial visualization techniques.
 
