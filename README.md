@@ -17,7 +17,7 @@ This project analyzes the healthcare professional workforce in Bangladesh by scr
 
 - **Total Doctors Analyzed**: 6,047 healthcare professionals
 - **Geographical Coverage**: All divisions of Bangladesh
-- **Specialties Covered**: 15+ medical specializations
+- **Specialties Covered**: Top 10 medical specializations
 - **Experience Range**: From new graduates to 30+ years of experience
 - **Regional Distribution**: Dhaka division has the highest concentration with 5,151 doctors
 
@@ -285,5 +285,6 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
