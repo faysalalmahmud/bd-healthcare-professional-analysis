@@ -13,7 +13,7 @@ An in-depth data analysis project examining the distribution, specialization, an
 This project analyzes the healthcare professional workforce in Bangladesh by scraping data from Sasthya Seba (সাস্থ্য সেবা), processing it using Python, and creating interactive geographical visualizations using Tableau. The analysis provides insights into doctor distribution, specialization patterns, experience levels, and regional healthcare coverage.
 
 <img src="visualizations/screenshots/1.png" alt="Dashboard Preview" width="500">  <img src="visualizations/screenshots/2.png" alt="Dashboard Preview" width="500"> <img src="visualizations/screenshots/3.png" alt="Dashboard Preview" width="500"> <img src="visualizations/screenshots/4.png" alt="Dashboard Preview" width="500">
-## 🎯 Key Findings
+## 🎯 Key Stats
 
 - **Total Doctors Analyzed**: 6,047 healthcare professionals
 - **Geographical Coverage**: All divisions of Bangladesh
@@ -195,7 +195,7 @@ jupyter notebook notebooks/Doctors_Data_Cleaning.ipynb
 
 The analysis reveals significant healthcare professional concentration in urban areas, particularly in Dhaka, highlighting potential access disparities in rural regions.
 
-## 📈 Key Metrics
+## 📈 Key Findings
 
 ### Specialty Distribution
 - **Immunologists**: Highest average experience (30 years)
