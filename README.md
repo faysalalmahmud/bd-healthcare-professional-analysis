@@ -199,12 +199,12 @@ The analysis reveals significant healthcare professional concentration in urban 
 
 ### Specialty Distribution
 - **Immunologists**: Highest average experience (30 years)
-- **Neurophysicians**: 25 years average experience
-- **General Medicine**: Largest specialty group (579 doctors)
-- **Aesthetic Medicine**: Growing specialty (512 doctors)
+- **Psychologist**: Lowest average experience (8 years)
+- **Gynae Problems**: Largest concentration group (720 doctors)
+- **Cardiac Medicine**: Growing concentration (606 doctors)
 
 ### Experience Patterns
-- **Peak Experience Range**: 20-25 years
+- **Peak Experience Range**: 15-20 years
 - **New Professionals**: Strong representation in 0-5 years category
 - **Senior Professionals**: Concentrated in specialized fields
 
@@ -285,6 +285,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
