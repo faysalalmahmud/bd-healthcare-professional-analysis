@@ -63,23 +63,23 @@ The project includes comprehensive visualizations showing:
 healthcare-analysis-bangladesh/
 │
 ├── data/
-│   ├── cleaned/
-│   │   └── doctors_cleaned_data.csv        # Final cleaned dataset (6,047 records)
+│   ├── processed/
+│   │   └── doctors_processed_data.csv        # Final processed dataset (6,047 records)
 │   ├── combined/
 │   │   └── doctors_combined_data.csv       # Combined raw data
-│   └── raw/                                # Raw scraped data files
-│       ├── doctors_raw_data(1_25).csv
-│       ├── doctors_raw_data(26_50).csv
-│       ├── doctors_raw_data(51_75).csv
-│       ├── doctors_raw_data(76_100).csv
-│       ├── doctors_raw_data(101_125).csv
-│       ├── doctors_raw_data(126_150).csv
-│       ├── doctors_raw_data(151_175).csv
-│       ├── doctors_raw_data(176_200).csv
-│       ├── doctors_raw_data(201_225).csv
-│       ├── doctors_raw_data(226_250).csv
-│       ├── doctors_raw_data(251_275).csv
-│       └── doctors_raw_data(276_300).csv
+│   └── scraped/                                # Scraped data files
+│       ├── doctors_scraped_data(1_25).csv
+│       ├── doctors_scraped_data(26_50).csv
+│       ├── doctors_scraped_data(51_75).csv
+│       ├── doctors_scraped_data(76_100).csv
+│       ├── doctors_scraped_data(101_125).csv
+│       ├── doctors_scraped_data(126_150).csv
+│       ├── doctors_scraped_data(151_175).csv
+│       ├── doctors_scraped_data(176_200).csv
+│       ├── doctors_scraped_data(201_225).csv
+│       ├── doctors_scraped_data(226_250).csv
+│       ├── doctors_scraped_data(251_275).csv
+│       └── doctors_scraped_data(276_300).csv
 │
 ├── notebooks/
 │   └── Doctors_Data_Cleaning.ipynb        # Data processing and cleaning
@@ -285,6 +285,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
