@@ -90,8 +90,6 @@ bd-med-professional-analysis/
 │   ├── scraper.py                         # Selenium web scraping script
 │   └── tempCodeRunnerFile.py              # Temporary execution file
 │
-├── venv/                                  # Virtual environment
-│
 ├── visualizations/
 │   ├── screenshots/                       # Dashboard screenshots
 │   │   ├── 1.png
@@ -285,6 +283,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
