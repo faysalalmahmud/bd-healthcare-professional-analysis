@@ -111,8 +111,8 @@ def main():
 
     # Save the DataFrame to a CSV file
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    raw_data_dir = os.path.join(script_dir, "../data/raw")
-    df.to_csv(f"{raw_data_dir}/doctors_raw_data(1_25).csv", index=False)
+    raw_data_dir = os.path.join(script_dir, "../data/scraped")
+    df.to_csv(f"{raw_data_dir}/doctors_scraped_data(1_25).csv", index=False)
 
 
 
