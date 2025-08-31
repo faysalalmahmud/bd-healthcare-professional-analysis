@@ -19,8 +19,8 @@ def main():
     doctorsConcentration = []
 
     # Loop through the pages to scrape data
-    #Here we scrape 25 pages on each iteration.
-    for id in range(276, 301):  # Adjust the range as needed
+    #Here we scrape 25 pages on each iteration Example (1-25,26-50,).
+    for id in range(1, 26):  # Adjust the range as needed
         try:
             target_url = f"https://sasthyaseba.com/search?type=doctor&country_id=22&page={id}"
             driver.get(target_url)
@@ -112,7 +112,7 @@ def main():
     # Save the DataFrame to a CSV file
     script_dir = os.path.dirname(os.path.abspath(__file__))
     raw_data_dir = os.path.join(script_dir, "../data/raw")
-    df.to_csv(f"{raw_data_dir}/doctors_raw_data(276_300).csv", index=False)
+    df.to_csv(f"{raw_data_dir}/doctors_raw_data(1_25).csv", index=False)
 
 
 

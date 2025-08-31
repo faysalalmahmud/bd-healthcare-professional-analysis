@@ -748,6 +748,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>4195</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Doctor Name</remote-name>
@@ -762,6 +763,7 @@
               <approx-count>3662</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Education</remote-name>
@@ -776,6 +778,7 @@
               <approx-count>1238</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Speciality</remote-name>
@@ -790,6 +793,7 @@
               <approx-count>81</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Experience</remote-name>
@@ -803,6 +807,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>40</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Chamber</remote-name>
@@ -817,6 +822,7 @@
               <approx-count>258</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Location</remote-name>
@@ -831,6 +837,7 @@
               <approx-count>11</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Concentration</remote-name>
@@ -845,6 +852,7 @@
               <approx-count>1888</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>MBBS</remote-name>
@@ -858,6 +866,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>FCPS</remote-name>
@@ -871,6 +880,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>BCS</remote-name>
@@ -884,6 +894,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>MD</remote-name>
@@ -897,6 +908,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>MS</remote-name>
@@ -910,6 +922,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>MCPS</remote-name>
@@ -923,6 +936,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>CCD</remote-name>
@@ -936,6 +950,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>PGT</remote-name>
@@ -949,6 +964,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>BDS</remote-name>
@@ -962,6 +978,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>MPH</remote-name>
@@ -975,6 +992,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gynae Problems</remote-name>
@@ -988,6 +1006,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Cardiac Medicine</remote-name>
@@ -1001,6 +1020,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>General Medicine</remote-name>
@@ -1014,6 +1034,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Aesthetic Medicine</remote-name>
@@ -1027,6 +1048,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Adolescent Medicine</remote-name>
@@ -1040,6 +1062,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Infectious Diseases</remote-name>
@@ -1053,6 +1076,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Geriatric Medicine</remote-name>
@@ -1066,6 +1090,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Polycystic Ovary Syndrome (Pcos)</remote-name>
@@ -1079,6 +1104,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Hormone Dirtubances</remote-name>
@@ -1092,6 +1118,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Health Checkup (Pediatric)</remote-name>
@@ -1105,6 +1132,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[doctors_cleaned_data.csv_57244154DE704B82B32D7A998F876481]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Shape_Leng</remote-name>
@@ -1118,6 +1146,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>64</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Shape_Area</remote-name>
@@ -1131,6 +1160,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>64</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM2_EN</remote-name>
@@ -1145,6 +1175,7 @@
               <approx-count>64</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM2_PCODE</remote-name>
@@ -1159,6 +1190,7 @@
               <approx-count>64</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM2_REF</remote-name>
@@ -1173,6 +1205,7 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM2ALT1EN</remote-name>
@@ -1187,6 +1220,7 @@
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM2ALT2EN</remote-name>
@@ -1201,6 +1235,7 @@
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM1_EN</remote-name>
@@ -1215,6 +1250,7 @@
               <approx-count>8</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM1_PCODE</remote-name>
@@ -1229,6 +1265,7 @@
               <approx-count>8</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM0_EN</remote-name>
@@ -1243,6 +1280,7 @@
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ADM0_PCODE</remote-name>
@@ -1257,6 +1295,7 @@
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='binary' />
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>date</remote-name>
@@ -1270,6 +1309,7 @@
               <aggregation>Year</aggregation>
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>validOn</remote-name>
@@ -1283,6 +1323,7 @@
               <aggregation>Year</aggregation>
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>ValidTo</remote-name>
@@ -1296,6 +1337,7 @@
               <aggregation>Year</aggregation>
               <approx-count>1</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Geometry</remote-name>
@@ -1309,39 +1351,14 @@
               <aggregation>Collect</aggregation>
               <approx-count>64</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[bgd_admbnda_adm2_bbs_20201113.shp_242135AF2631422C87DE43695BAA1AF0]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
       </extract>
-      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <layout common-percentage='1' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' user-set-layout-v2='true' />
       <style>
         <style-rule element='mark'>
-          <encoding attr='color' field='[none:ADM1_EN:nk]' palette='green_10_0' type='palette'>
-            <map to='#24693d'>
-              <bucket>&quot;Khulna&quot;</bucket>
-            </map>
-            <map to='#24693d'>
-              <bucket>&quot;Sylhet&quot;</bucket>
-            </map>
-            <map to='#27763d'>
-              <bucket>&quot;Dhaka&quot;</bucket>
-            </map>
-            <map to='#2a7b3f'>
-              <bucket>&quot;Rangpur&quot;</bucket>
-            </map>
-            <map to='#398949'>
-              <bucket>&quot;Chittagong&quot;</bucket>
-            </map>
-            <map to='#3d8c4b'>
-              <bucket>&quot;Rajshahi&quot;</bucket>
-            </map>
-            <map to='#529d51'>
-              <bucket>&quot;Mymensingh&quot;</bucket>
-            </map>
-            <map to='#61a956'>
-              <bucket>&quot;Barisal&quot;</bucket>
-            </map>
-          </encoding>
           <encoding attr='color' field='[none:ADM1_EN:nk]&#10;[none:ADM2_EN:nk]' palette='green_10_0' type='palette'>
             <map to='#24693d'>
               <multibucket>
@@ -1998,6 +2015,32 @@
             </map>
             <map to='#b3e0a6'>
               <bucket>&quot;ALLERGY SKIN-VD&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:ADM1_EN:nk]' palette='green_10_0' type='palette'>
+            <map to='#24693d'>
+              <bucket>&quot;Khulna&quot;</bucket>
+            </map>
+            <map to='#24693d'>
+              <bucket>&quot;Sylhet&quot;</bucket>
+            </map>
+            <map to='#27763d'>
+              <bucket>&quot;Dhaka&quot;</bucket>
+            </map>
+            <map to='#2a7b3f'>
+              <bucket>&quot;Rangpur&quot;</bucket>
+            </map>
+            <map to='#398949'>
+              <bucket>&quot;Chittagong&quot;</bucket>
+            </map>
+            <map to='#3d8c4b'>
+              <bucket>&quot;Rajshahi&quot;</bucket>
+            </map>
+            <map to='#529d51'>
+              <bucket>&quot;Mymensingh&quot;</bucket>
+            </map>
+            <map to='#61a956'>
+              <bucket>&quot;Barisal&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -5928,6 +5971,104 @@
       </table>
       <simple-id uuid='{ACFEC3AE-C4F1-43D4-9F60-9D95B9618BF0}' />
     </worksheet>
+    <worksheet name='Sheet 36'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='doctors_cleaned_data' name='federated.0q21bkw0ybaodg1bedpof0qxvj92' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0q21bkw0ybaodg1bedpof0qxvj92'>
+            <column caption='Rounded Box' datatype='string' name='[Calculation_281756496850903044]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='&quot;&quot;' />
+            </column>
+            <column-instance column='[Calculation_281756496850903044]' derivation='None' name='[none:Calculation_281756496850903044:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='annotation'>
+            <format attr='fill-color' id='annotation_0' value='#f0f7fa' />
+            <format attr='rounding' id='annotation_0' value='large' />
+            <format attr='fill-color' id='annotation_1' value='#ffffff' />
+            <format attr='rounding' id='annotation_1' value='large' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0q21bkw0ybaodg1bedpof0qxvj92].[none:Calculation_281756496850903044:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+        <annotations>
+          <annotation class='area' id='0' text-pinx='0.5' text-piny='0.5' text-width-delta='-18'>
+            <formatted-text />
+            <top-left>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.0341667'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.07375'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </top-left>
+            <bottom-right>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.975'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.94125'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </bottom-right>
+            <text x='0.5' y='0.5' />
+          </annotation>
+          <annotation class='area' id='1' text-pinx='0.5' text-piny='0.5' text-width-delta='-18'>
+            <formatted-text />
+            <top-left>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.145833'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.335'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </top-left>
+            <bottom-right>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.8575'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.6825'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </bottom-right>
+            <text x='0.5' y='0.5' />
+          </annotation>
+        </annotations>
+      </table>
+      <simple-id uuid='{CDCBD93F-B8EF-41C2-99CB-53123119E35C}' />
+    </worksheet>
     <worksheet name='Years of Experience by Speciality'>
       <layout-options>
         <title>
@@ -6168,8 +6309,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2100' minheight='2100' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='37' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='36' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
+            <zone h='100000' id='39' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='84000' id='38' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='100000' id='7' is-fixed='true' name='Rounded Box (3)' show-title='false' w='100000' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -6399,48 +6540,6 @@
       </devicelayouts>
       <simple-id uuid='{D9122C57-6276-4F93-B185-870811889115}' />
     </dashboard>
-    <dashboard enable-sort-zone-taborder='true' name='Dashboard 5'>
-      <style />
-      <size maxheight='800' maxwidth='1200' minheight='800' minwidth='1200' sizing-mode='fixed' />
-      <zones>
-        <zone h='100000' id='6' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone fixed-size='164' forceUpdate='true' h='100000' id='5' is-fixed='true' type-v2='text' w='100000' x='0' y='0'>
-            <formatted-text>
-              <run fontsize='20'>Faysal Al Mahmud</run>
-              <run>Æ&#10;</run>
-              <run fontsize='14'>Mail: faysalalmahmud78@gmail.com</run>
-              <run>Æ&#10;</run>
-              <run fontsize='14'>LlinkedIn: </run>
-              <run auto-url='true' fontsize='14' hyperlink='tabdoc:load-url url=&amp;quot;https://www.linkedin.com/in/faysalalmahmud/&amp;quot;'>https://www.linkedin.com/in/faysalalmahmud/</run>
-            </formatted-text>
-            <zone-style>
-              <format attr='border-color' value='#000000' />
-              <format attr='border-style' value='none' />
-              <format attr='border-width' value='0' />
-              <format attr='margin' value='4' />
-            </zone-style>
-          </zone>
-        </zone>
-        <zone h='27250' id='3' is-scaled='1' param='C:/Users/faysal/Downloads/Faysal.png' type-v2='bitmap' url='https://www.linkedin.com/in/faysalalmahmud/' w='18583' x='4583' y='13125' />
-      </zones>
-      <devicelayouts>
-        <devicelayout auto-generated='true' name='Phone'>
-          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
-          <zones>
-            <zone h='100000' id='2' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='84000' id='1' param='vert' type-v2='layout-flow' w='84000' x='8000' y='8000' />
-              <zone-style>
-                <format attr='border-color' value='#000000' />
-                <format attr='border-style' value='none' />
-                <format attr='border-width' value='0' />
-                <format attr='margin' value='8' />
-              </zone-style>
-            </zone>
-          </zones>
-        </devicelayout>
-      </devicelayouts>
-      <simple-id uuid='{15585319-3787-44F2-ABB1-E9E4343A99D3}' />
-    </dashboard>
     <dashboard enable-sort-zone-taborder='true' name='Educational Degree Dashboard'>
       <style />
       <size maxheight='800' maxwidth='1200' minheight='800' minwidth='1200' sizing-mode='fixed' />
@@ -6504,8 +6603,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2000' minheight='2000' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='37' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='36' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
+            <zone h='100000' id='39' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='38' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
                 <zone fixed-size='280' h='100000' id='3' is-fixed='true' name='Rounded Box (2)' show-title='false' w='100000' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -6784,8 +6883,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='24' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='23' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
+            <zone h='100000' id='27' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='26' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' name='BD Maps' show-title='false' w='98666' x='667' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -6827,12 +6926,29 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone forceUpdate='true' h='3750' id='10' type-v2='text' w='8333' x='90000' y='93250'>
+                <zone forceUpdate='true' h='3750' id='10' type-v2='text' w='8333' x='80833' y='93250'>
                   <formatted-text>
                     <run fontsize='8'>Data Source</run>
                     <run>Æ&#10;</run>
                     <run bold='true' fontsize='10'>Sasthya Seba</run>
                   </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='3250' id='25' type-v2='dashboard-object' w='8750' x='89500' y='93500'>
+                  <button action='tabdoc:goto-sheet window-id=&quot;{D911263C-C4A1-4881-BDAD-6A2DAC530C83}&quot;' button-type='text'>
+                    <button-visual-state>
+                      <caption>Author Info →</caption>
+                      <tooltip-text>Want to know about Author</tooltip-text>
+                      <button-caption-font-style fontname='Century Gothic' fontsize='9' />
+                      <format attr='background-color' value='#529d51' />
+                    </button-visual-state>
+                  </button>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -6905,8 +7021,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2300' minheight='2300' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='31' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='30' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
+            <zone h='100000' id='33' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='32' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
                 <zone fixed-size='280' h='100000' id='4' is-fixed='true' name='Rounded Box' show-title='false' w='100000' x='0' y='0'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -7045,6 +7161,108 @@
         </devicelayout>
       </devicelayouts>
       <simple-id uuid='{63045732-6E44-4FB6-B2B6-7C29DC8F78C8}' />
+    </dashboard>
+    <dashboard enable-sort-zone-taborder='true' name='Profile'>
+      <style />
+      <size maxheight='800' maxwidth='1200' minheight='800' minwidth='1200' sizing-mode='fixed' />
+      <zones>
+        <zone h='100000' id='5' name='Sheet 36' show-title='false' w='100000' x='0' y='0' />
+        <zone h='27250' id='3' is-scaled='1' param='C:/Users/faysal/Downloads/Faysal.png' type-v2='bitmap' url='https://www.linkedin.com/in/faysalalmahmud/' w='18583' x='18167' y='36250' />
+        <zone forceUpdate='true' h='16125' id='4' type-v2='text' w='46417' x='38917' y='43500'>
+          <formatted-text>
+            <run fontsize='20'>Faysal Al Mahmud</run>
+            <run>Æ&#10;</run>
+            <run fontsize='14'>Learner | Tech Enthusiast</run>
+            <run>Æ&#10;</run>
+            <run fontsize='14'>Mail: faysalalmahmud78@gmail.com</run>
+            <run>Æ&#10;</run>
+            <run fontsize='14'>LlinkedIn: </run>
+            <run auto-url='true' fontsize='14' hyperlink='tabdoc:load-url url=&amp;quot;https://www.linkedin.com/in/faysalalmahmud/&amp;quot;'>https://www.linkedin.com/in/faysalalmahmud/</run>
+          </formatted-text>
+        </zone>
+        <zone h='3250' id='6' type-v2='dashboard-object' w='8750' x='85917' y='88375'>
+          <button action='tabdoc:goto-sheet window-id=&quot;{9C101D6C-CC64-492B-A432-608F6DDF45D8}&quot;' button-type='text'>
+            <button-visual-state>
+              <caption>Dashboard →</caption>
+              <tooltip-text>Go to home page</tooltip-text>
+              <button-caption-font-style fontname='Century Gothic' fontsize='9' />
+              <format attr='background-color' value='#529d51' />
+            </button-visual-state>
+          </button>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='8' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='7' param='vert' type-v2='layout-flow' w='98666' x='667' y='1000'>
+                <zone fixed-size='280' h='100000' id='5' is-fixed='true' name='Sheet 36' show-title='false' w='100000' x='0' y='0'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='218' h='27250' id='3' is-fixed='true' is-scaled='1' param='C:/Users/faysal/Downloads/Faysal.png' type-v2='bitmap' url='https://www.linkedin.com/in/faysalalmahmud/' w='18583' x='18167' y='36250'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone forceUpdate='true' h='16125' id='4' type-v2='text' w='46417' x='38917' y='43500'>
+                  <formatted-text>
+                    <run fontsize='20'>Faysal Al Mahmud</run>
+                    <run>Æ&#10;</run>
+                    <run fontsize='14'>Learner | Tech Enthusiast</run>
+                    <run>Æ&#10;</run>
+                    <run fontsize='14'>Mail: faysalalmahmud78@gmail.com</run>
+                    <run>Æ&#10;</run>
+                    <run fontsize='14'>LlinkedIn: </run>
+                    <run auto-url='true' fontsize='14' hyperlink='tabdoc:load-url url=&amp;quot;https://www.linkedin.com/in/faysalalmahmud/&amp;quot;'>https://www.linkedin.com/in/faysalalmahmud/</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='3250' id='6' type-v2='dashboard-object' w='8750' x='85917' y='88375'>
+                  <button action='tabdoc:goto-sheet window-id=&quot;{9C101D6C-CC64-492B-A432-608F6DDF45D8}&quot;' button-type='text'>
+                    <button-visual-state>
+                      <caption>Dashboard →</caption>
+                      <tooltip-text>Go to home page</tooltip-text>
+                      <button-caption-font-style fontname='Century Gothic' fontsize='9' />
+                      <format attr='background-color' value='#529d51' />
+                    </button-visual-state>
+                  </button>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{15585319-3787-44F2-ABB1-E9E4343A99D3}' />
     </dashboard>
   </dashboards>
   <windows source-height='30'>
@@ -7994,11 +8212,11 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='11' />
+      <active id='4' />
       <device-preview selected='Desktop' />
       <simple-id uuid='{2CA0EBD7-9312-4CD9-AD78-60788BA2E7A9}' />
     </window>
-    <window class='dashboard' name='Educational Degree Dashboard'>
+    <window class='dashboard' maximized='true' name='Educational Degree Dashboard'>
       <viewpoints>
         <viewpoint name='BCS Count'>
           <zoom type='entire-view' />
@@ -8042,7 +8260,7 @@
         </viewpoint>
         <viewpoint name='Years of Experience by Speciality' />
       </viewpoints>
-      <active id='-1' />
+      <active id='7' />
       <simple-id uuid='{FE347CB8-823D-4AB4-878A-66E297E75FFF}' />
     </window>
     <window class='dashboard' name='Concentration Dashboard'>
@@ -8092,10 +8310,40 @@
       <active id='-1' />
       <simple-id uuid='{72C6F4AE-97A8-432A-BFC6-E76B52AF1BF5}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard 5'>
-      <viewpoints />
-      <active id='5' />
+    <window class='dashboard' name='Profile'>
+      <viewpoints>
+        <viewpoint name='Sheet 36'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='-1' />
       <simple-id uuid='{D911263C-C4A1-4881-BDAD-6A2DAC530C83}' />
+    </window>
+    <window class='worksheet' name='Sheet 36'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{11D8C03B-19B2-4B84-98C6-BE11D901B141}' />
     </window>
   </windows>
 </workbook>
