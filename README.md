@@ -60,7 +60,7 @@ The project includes comprehensive visualizations showing:
 ## 📁 Project Structure
 
 ```
-healthcare-analysis-bangladesh/
+bd-med-professional-analysis/
 │
 ├── data/
 │   ├── processed/
@@ -285,6 +285,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
