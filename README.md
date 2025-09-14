@@ -180,7 +180,8 @@ jupyter notebook notebooks/Doctors_Data_Cleaning.ipynb
 - **Missing Values**: Rows with missing values were removed to ensure data integrity
 - **Duplicates**: Removed based on doctor name and qualification combination
 
-## 🗺 Geographical Insights
+
+## 📈 Key Findings
 
 ### Division-wise Distribution
 
@@ -192,8 +193,6 @@ jupyter notebook notebooks/Doctors_Data_Cleaning.ipynb
 ### Regional Healthcare Access
 
 The analysis reveals significant healthcare professional concentration in urban areas, particularly in Dhaka, highlighting potential access disparities in rural regions.
-
-## 📈 Key Findings
 
 ### Specialty Distribution
 - **Immunologists**: Highest average experience (30 years)
@@ -283,6 +282,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
