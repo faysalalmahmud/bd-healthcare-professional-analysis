@@ -12,7 +12,7 @@ An in-depth data analysis project examining the distribution, specialization, an
 
 This project analyzes the healthcare professional workforce in Bangladesh by scraping data from Sasthya Seba (সাস্থ্য সেবা), processing it using Python, and creating interactive geographical visualizations using Tableau. The analysis provides insights into doctor distribution, specialization patterns, experience levels, and regional healthcare coverage.
 
-<img src="visualizations/screenshots/1.png" alt="Dashboard Preview" width="500">  <img src="visualizations/screenshots/2.png" alt="Dashboard Preview" width="500"> <img src="visualizations/screenshots/3.png" alt="Dashboard Preview" width="500"> <img src="visualizations/screenshots/4.png" alt="Dashboard Preview" width="500">
+
 ## 🎯 Key Stats
 
 - **Total Doctors Analyzed**: 6,047 healthcare professionals
@@ -23,21 +23,30 @@ This project analyzes the healthcare professional workforce in Bangladesh by scr
 
 ## 📈 Visualizations
 
-The project includes comprehensive visualizations showing:
+The project includes comprehensive visualizations showing: <br>
+1. **Geographical Analysis**
+   <br><br>
+   <img src="visualizations/screenshots/2.png" alt="Dashboard Preview" width="350">  
+   - Interactive maps showing doctor distribution across Bangladesh
+   - Division-wise healthcare professional density
+   - Regional healthcare coverage patterns
 
-1. **Specialty Analysis**
+     
+2. **Specialty Analysis**
+   <br><br>
+   <img src="visualizations/screenshots/3.png" alt="Dashboard Preview" width="350">
    - Average years of experience by medical specialty
    - Number of doctors by specialty
    - Degree distribution (MBBS, BDS, BCS, FCPS, etc.)
 
-2. **Experience Distribution**
+
+3. **Experience Distribution**
+   <br> <br>
+    <img src="visualizations/screenshots/4.png" alt="Dashboard Preview" width="350">
    - Doctor count by years of experience bins
    - Experience patterns across different specializations
+   - Concentration distribution (Gynae problems, Cardiac Problems etc.)
 
-3. **Geographical Analysis**
-   - Interactive maps showing doctor distribution across Bangladesh
-   - Division-wise healthcare professional density
-   - Regional healthcare coverage patterns
 
 ## 🛠 Technologies Used
 
@@ -88,7 +97,7 @@ bd-med-professional-analysis/
 |   ├── data_processing/                       # Dashboard screenshots
 │   │   ├── merge_data.py
 │   │   ├── process_data.ipynb
-│   ├── scraper.py                         # Selenium web scraping script
+│   └── scraper.py                         # Selenium web scraping script
 │
 ├── visualizations/
 │   ├── screenshots/                       # Dashboard screenshots
@@ -282,6 +291,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
