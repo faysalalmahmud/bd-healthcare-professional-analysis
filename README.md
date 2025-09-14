@@ -272,7 +272,7 @@ This project is licensed under the MIT License.
 
 **Project Maintainer**: Faysal Al Mahmud
 - GitHub: [@faysalalmahmud](https://github.com/faysalalmahmud)
-- Repository: [bd-med-professional-analysis](https://github.com/faysalalmahmud/bd-healthcare-professional-analysis/)
+- Repository: [bd-healthcare-professional-analysis](https://github.com/faysalalmahmud/bd-healthcare-professional-analysis/)
 - Tableau Dashboard: [Interactive Visualization](https://public.tableau.com/views/AnalysisofHealthcareProfessionalinBD/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🔮 Future Enhancements
@@ -291,6 +291,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
