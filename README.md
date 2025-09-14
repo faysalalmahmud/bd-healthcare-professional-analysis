@@ -88,13 +88,11 @@ bd-med-professional-analysis/
 │       ├── doctors_scraped_data(226_250).csv
 │       ├── doctors_scraped_data(251_275).csv
 │       └── doctors_scraped_data(276_300).csv
-│
-├── notebooks/
-│   └── Doctors_Data_Cleaning.ipynb        # Data processing and cleaning
+│      
 │
 ├── src/
 │   ├── __pycache__/                       # Python cache files
-|   ├── data_processing/                       # Dashboard screenshots
+|   ├── data_processing/                       # Data processing and cleaning files
 │   │   ├── merge_data.py
 │   │   ├── process_data.ipynb
 │   └── scraper.py                         # Selenium web scraping script
@@ -291,6 +289,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 15 Sep 2025 
 **Version**: 1.0.0
+
 
 
 
