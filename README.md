@@ -289,8 +289,9 @@ This project is licensed under the MIT License.
 **Note**: This project is for educational and research purposes. Please respect the terms of service of data sources and use the information responsibly.
 
 **Data Collection Date**: 16 Aug 2025  
-**Last Updated**: 23 Aug 2025 
+**Last Updated**: 15 Sep 2025 
 **Version**: 1.0.0
+
 
 
 
