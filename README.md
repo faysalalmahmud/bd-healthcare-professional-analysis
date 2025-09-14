@@ -5,7 +5,7 @@ An in-depth data analysis project examining the distribution, specialization, an
 ## 🚀 Quick Links
 
 - **📊 [Live Tableau Dashboard](https://public.tableau.com/views/AnalysisofHealthcareProfessionalinBD/Home)** - Interactive visualization
-- **💻 [GitHub Repository](https://github.com/faysalalmahmud/bd-med-professional-analysis)** - Source code and data
+- **💻 [GitHub Repository](https://github.com/faysalalmahmud/bd-healthcare-professional-analysis/)** - Source code and data
 - **📝 [Data Source](https://sasthyaseba.com/)** - Sasthya Seba healthcare directory
 
 ## 📊 Project Overview
@@ -264,7 +264,7 @@ This project is licensed under the MIT License.
 
 **Project Maintainer**: Faysal Al Mahmud
 - GitHub: [@faysalalmahmud](https://github.com/faysalalmahmud)
-- Repository: [bd-med-professional-analysis](https://github.com/faysalalmahmud/bd-med-professional-analysis)
+- Repository: [bd-med-professional-analysis](https://github.com/faysalalmahmud/bd-healthcare-professional-analysis/)
 - Tableau Dashboard: [Interactive Visualization](https://public.tableau.com/views/AnalysisofHealthcareProfessionalinBD/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🔮 Future Enhancements
@@ -283,6 +283,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
