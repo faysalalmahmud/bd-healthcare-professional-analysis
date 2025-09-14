@@ -64,8 +64,7 @@ bd-med-professional-analysis/
 │
 ├── data/
 │   ├── processed/
-│   │   └── doctors_processed_data.csv        # Final processed dataset (6,047 records)
-│   ├── combined/
+│   │   ├── doctors_processed_data.csv        # Final processed dataset (6,047 records)
 │   │   └── doctors_combined_data.csv       # Combined raw data
 │   └── scraped/                                # Scraped data files
 │       ├── doctors_scraped_data(1_25).csv
@@ -86,9 +85,10 @@ bd-med-professional-analysis/
 │
 ├── src/
 │   ├── __pycache__/                       # Python cache files
-│   ├── data_combining.py                  # Script to combine raw data files
+|   ├── data_processing/                       # Dashboard screenshots
+│   │   ├── merge_data.py
+│   │   ├── process_data.ipynb
 │   ├── scraper.py                         # Selenium web scraping script
-│   └── tempCodeRunnerFile.py              # Temporary execution file
 │
 ├── visualizations/
 │   ├── screenshots/                       # Dashboard screenshots
@@ -243,7 +243,7 @@ The analysis reveals significant healthcare professional concentration in urban 
 
 Contributions are welcome! Please follow these steps:
 
-1. Fork the repository: https://github.com/faysalalmahmud/bd-med-professional-analysis
+1. Fork the repository: https://github.com/faysalalmahmud/bd-healthcare-professional-analysis
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
@@ -282,6 +282,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 23 Aug 2025 
 **Version**: 1.0.0
+
 
 
 
