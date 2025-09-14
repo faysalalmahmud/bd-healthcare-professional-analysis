@@ -25,7 +25,7 @@ def main():
     # Combine all DataFrames into one
     df = pd.concat([df1, df2, df3, df4, df5, df6, df7, df8, df9, df10, df11, df12], ignore_index=True)
     print(df.shape)
-    df.to_csv(f"{script_dir}/../data/combined/doctors_combined_data.csv", index=False)
+    df.to_csv(f"{script_dir}/../data/processed/doctors_combined_data.csv", index=False)
 
 
 if __name__ == "__main__":
