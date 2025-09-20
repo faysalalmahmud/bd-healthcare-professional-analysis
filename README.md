@@ -140,10 +140,6 @@ cd bd-med-professional-analysis
 pip install -r requirements.txt
 ```
 
-3. Set up Chrome WebDriver for Selenium:
-```bash
-# WebDriver will be automatically managed by webdriver-manager
-```
 
 ### Usage
 
@@ -289,6 +285,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 15 Sep 2025 
 **Version**: 1.0.0
+
 
 
 
