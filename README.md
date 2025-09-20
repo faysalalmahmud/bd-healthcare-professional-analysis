@@ -91,7 +91,6 @@ bd-healthcare-professional-analysis/
 │      
 │
 ├── src/
-│   ├── __pycache__/                       # Python cache files
 |   ├── data_processing/                       # Data processing and cleaning files
 │   │   ├── merge_data.py
 │   │   ├── process_data.ipynb
@@ -125,7 +124,6 @@ Required packages:
 - numpy
 - jupyter
 - webdriver-manager
-- geopandas (for geographical analysis)
 
 ### Installation
 
@@ -285,6 +283,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 15 Sep 2025 
 **Version**: 1.0.0
+
 
 
 
