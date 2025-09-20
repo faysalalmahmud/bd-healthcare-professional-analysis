@@ -69,7 +69,7 @@ The project includes comprehensive visualizations showing: <br>
 ## 📁 Project Structure
 
 ```
-bd-med-professional-analysis/
+bd-healthcare-professional-analysis/
 │
 ├── data/
 │   ├── processed/
@@ -131,8 +131,8 @@ Required packages:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/faysalalmahmud/bd-med-professional-analysis.git
-cd bd-med-professional-analysis
+git clone https://github.com/faysalalmahmud/bd-healthcare-professional-analysis.git
+cd bd-healthcare-professional-analysis
 ```
 
 2. Install dependencies:
@@ -285,6 +285,7 @@ This project is licensed under the MIT License.
 **Data Collection Date**: 16 Aug 2025  
 **Last Updated**: 15 Sep 2025 
 **Version**: 1.0.0
+
 
 
 
